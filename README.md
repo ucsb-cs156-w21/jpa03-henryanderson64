@@ -21,7 +21,7 @@ To get started with this application, you'll need to be able to
 * Run it locally (i.e. on localhost)
 * Deploy it to Heroku
 * Get the test cases running on GitHub Actions
-* See aggregrated code coverage statistics on Codecov
+* See aggregrated code coverage statistics on Codecov 
 
 This application has integrations with the following third-party
 services that require configuration

@@ -4,13 +4,9 @@ Repo: https://github.com/ucsb-cs156-w21/jpa03-henryanderson64
 
 On Heroku:  https://jpa03-henryanderson64.herokuapp.com
 
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.  Fix the URLs in the codecov
-  badge markup below as well so that the badge links to your
-  correct codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-henryanderson64
+
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-w21/jpa03-henryanderson64
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-cgaucho)
 
